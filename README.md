@@ -2,7 +2,7 @@
 
 
 
-This is a simple chatting Android Mobile App demonstrating network socketing , users login and be able to chat . 
+This is a simple chatting Android Mobile App demonstrating network sock , users login and be able to chat . 
 
 
 
